@@ -2,10 +2,10 @@
 
  Uses Cheerio to scrape news articles from a site and allows the user to make comments and delete them. Uses Mongoose to store comments and articles.
 
-##Getting Started
+### Getting Started
 ( https://sheltered-tundra-55674.herokuapp.com/)
 
-##Technologies used
+### Technologies used
 Node.js
 -Handlebars - (http://handlebarsjs.com/)
 -MongoDB - (https://www.mongodb.com/download-center#community)
@@ -17,16 +17,16 @@ body-parser NPM Package - (https://www.npmjs.com/package/body-parser)
 morgan NPM Package - (https://www.npmjs.com/package/morgan)
 request NPM Package - (https://www.npmjs.com/package/request)
 
-##Prerequisites
+### Prerequisites
 - Node.js - Download the latest version of Node (https://nodejs.org/en/)
 - Materialize - Add CDN link (http://materializecss.com/getting-started.html)
 
-##Built With
+### Built With
 Visual Studio Code - Text Editor
 Node
 Mongoose/MongoDB
 Robomongo - Download the latest version (https://robomongo.org/)
 Materialize - Wireframe
 
-##Authors
+### Authors
 Sonam Mankame - Full Stack Developer
