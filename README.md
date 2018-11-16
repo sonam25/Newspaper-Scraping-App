@@ -7,8 +7,8 @@
 
 ##Technologies used
 Node.js
-Handlebars - (http://handlebarsjs.com/)
-MongoDB - (https://www.mongodb.com/download-center#community)
+-Handlebars - (http://handlebarsjs.com/)
+-MongoDB - (https://www.mongodb.com/download-center#community)
 Mongoose - (http://mongoosejs.com/docs/)
 express NPM Package - (https://www.npmjs.com/package/express)
 express-handlebars NPM Package - (https://www.npmjs.com/package/express-handlebars)
@@ -27,5 +27,6 @@ Node
 Mongoose/MongoDB
 Robomongo - Download the latest version (https://robomongo.org/)
 Materialize - Wireframe
-Authors
+
+##Authors
 Sonam Mankame - Full Stack Developer
