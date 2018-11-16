@@ -1,0 +1,29 @@
+{
+  "name": "newspaper-scraping-app",
+  "version": "1.0.0",
+  "description": "Newspaper Scraping App",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sonam25/Newspaper-Scraping-App.git"
+  },
+  "author": "Sonam",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sonam25/Newspaper-Scraping-App/issues"
+  },
+  "homepage": "https://github.com/sonam25/Newspaper-Scraping-App#readme",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "body-parser": "^1.18.3",
+    "cheerio": "^1.0.0-rc.2",
+    "express": "^4.16.4",
+    "express-handlebars": "^3.0.0",
+    "mongoose": "^5.3.11",
+    "request": "^2.88.0"
+  }
+}
